@@ -2,7 +2,7 @@
 
 Generate MD5, SHA-1, SHA-256, and SHA-512 cryptographic hashes from text input, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/hash-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/hash-generator-online
 
 ## How It Works
 
